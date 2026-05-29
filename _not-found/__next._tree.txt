@@ -1,0 +1,3 @@
+:HL["/auryontech/_next/static/chunks/16rtag8ole37g.css","style"]
+:HL["https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,700,600,500&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6K-hGRXvuTfiXxg268XeJ"}
